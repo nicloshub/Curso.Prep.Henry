@@ -1,0 +1,9 @@
+1. A. Variables: Las variables son "objetos" dentro del codigo de JS que contienen informacion de muchos tipos: puede contener un valor numerico, o un String, un booleano y demas.
+
+B. Strings: Un String es una cadena de texto. Generalmente todo lo que este escrito entre comillas dobles o simples es considerado un String.
+
+C. Funciones: Las funciones son partes del codigo cuyo fin es realizar una accion a partir de cierta informacion, conocida como argumentos y que estan dentro de la misma. Para acceder a una variable que se encuentra dentro de una funcion debemos utilizar el comando 'return', seguido de la variable que se desea llamar.
+
+D. Los If statements son partes del codigo que analizan cierta informacion dada, devolviendo un booleano (True o False), y dependiendo del estado de este booleano el if statement realizara una accion que nosotros le asignemos dentro del contenido del mismo.
+
+E. Los booleanos son un tipo de informacion que solo posee dos estados posibles: true (valido) o false (invalido). Esta informacion luego sirve para poder comparar y ejecutar acciones. La informacion booleana en formato de 0s y 1s es la base de toda la informatica.
